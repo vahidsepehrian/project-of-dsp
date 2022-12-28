@@ -148,3 +148,26 @@ This work is based on:
 
 2.  Aaron van den Oord, and Oriol Vinyals. ["Neural discrete representation learning."](https://arxiv.org/abs/1711.00937)
     Advances in Neural Information Processing Systems. 2017.
+
+
+[1] Tomoki Toda, Alan W Black, and Keiichi Tokuda, “Voice conversion based on maximum-likelihood estimation of spectral parameter trajectory,” TASLP, vol. 15, no. 8,
+2007.
+
+[2] Kou Tanaka, Hirokazu Kameoka, Takuhiro Kaneko, and Nobukatsu Hojo, “Atts2s-VC: Sequence-to-sequence voice conversion with attention and context preservation mechanisms,” in ICASSP, 2019
+
+[3] Lifa Sun, Kun Li, Hao Wang, Shiyin Kang, and Helen Meng, “Phonetic posteriorgrams for many-to-one voice conversion without parallel data training,” in ICME, 2016
+
+[4] Wen-Chin Huang, Tomoki Hayashi, Shinji Watanabe, and Tomoki Toda, “The Sequence-to-Sequence Baseline for the Voice Conversion Challenge 2020: Cascading ASR and TTS,” in Interspeech BC/VCC workshop, 2020
+
+[5] Hirokazu Kameoka, Takuhiro Kaneko, Kou Tanaka, and Nobukatsu Hojo, “Stargan-vc: Non-parallel many-tomany voice conversion using star generative adversarial networks,” in SLT, 2018.
+
+[6] Kaizhi Qian, Yang Zhang, Shiyu Chang, Xuesong Yang, and Mark Hasegawa-Johnson, “AutoVC: Zero-shot voice style transfer with only autoencoder loss,” in ICML, 2019
+
+[7] Yi Zhao et al., “Voice conversion challenge 2020: Intralingual semi-parallel and cross-lingual voice conversion,” in Interspeech BC/VCC workshop, 2020
+
+[8] Adam Polyak et al., “Speech resynthesis from discrete disentangled self-supervised representations,” in Interspeech, 2021
+ 
+[9] Benjamin van Niekerk, Leanne Nortje, and Herman Kamper, “Vector-quantized neural networks for acoustic unit discovery in the zerospeech 2020 challenge,” in Interspeech, 2020
+ 
+[10] Wen-Chin Huang, Yi-Chiao Wu, and Tomoki Hayashi, “Any-to-one sequence-to-sequence voice conversion using self-supervised discrete speech representations,” in ICASSP, 2021
+ 
